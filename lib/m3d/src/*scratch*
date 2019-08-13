@@ -1,0 +1,27 @@
+;; Happy hacking zhiy - Emacs loves you!
+
+linkedSpoke2 = {_vptr.M3DSpoke = 0x111b830 <vtable for M3DSpoke+16>, X = {x = 0.46958544600406887, y = 0.22493682740781937, 
+    z = 0.499275115775}, U = {x = 0.65185881386819344, y = -0.75834035022644453, z = 0}, r = 0.036393179627030106, 
+  figureID = 1884320512, linkTo = 32767, primitiveIndex = 59282480, linkLength = 1000, linkPoint = {x = 0, y = 0, z = 0}, 
+  linkPointOnSkeleton = {x = 0, y = 0, z = 0}, linkPointOnBdry = {x = 0, y = 0, z = 0}}
+
+targetS = {_vptr.M3DSpoke = 0x111b830 <vtable for M3DSpoke+16>, X = {x = 0.61561082736134354 0.61561082736134354, y = 0.59562511164846232, 
+    z = 0.49939564743199999}, U = {x = 0.91192537476798874, y = -0.41035607812563596, z = 0}, r = 0.051875625025314363, 
+  figureID = 0, linkTo = 1, primitiveIndex = 32, linkLength = 1.0938953266933442, linkPoint = {x = 1.6131617331131229, 
+    y = 0.14673851550662032, z = 0.49939564743199999}, linkPointOnSkeleton = {x = 0.54969965074081251, y = 0.38137752794543744, 
+    z = 0.49990200261500001}, linkPointOnBdry = {x = 0.58459694957080655, y = 0.37162700535286436, z = 0.49990200261500001}}
+
+t_min2 = 0.0003528313307683847
+
+linkedSpoke1 = {_vptr.M3DSpoke = 0x111b830 <vtable for M3DSpoke+16>, X = {x = 0.54969965074081251, y = 0.38137752794543744, 
+    z = 0.49990200261500001}, U = {x = 0.96311235633925385, y = -0.26909958949604496, z = 0}, r = 0.036233881333053518, 
+  figureID = -44976, linkTo = 32767, primitiveIndex = 8301943, linkLength = 1000, linkPoint = {x = 0, y = 0, z = 0}, 
+  linkPointOnSkeleton = {x = 0, y = 0, z = 0}, linkPointOnBdry = {x = 0, y = 0, z = 0}}
+
+t_min1 = 1.0195031289404446
+
+linkedSpoke_ref = {_vptr.M3DSpoke = 0x111c830 <vtable for M3DSpoke+16>, X = {x = 0.61758884542000003, y = 0.59267440970600005, 
+    z = 0.49939565520200002}, U = {x = -0.17404327397, y = -0.98473800514999998, z = 0}, r = 0.049930347967499997, figureID = 8, 
+  linkTo = -1, primitiveIndex = 11, isValid = true, linkLength = 1000, linkPoint = {x = 0, y = 0, z = 0}, linkPointOnSkeleton = {
+    x = 0, y = 0, z = 0}, linkPointOnBdry = {x = 0, y = 0, z = 0}, linkSpokeType = 1221935456, spokeType = 32765}
+

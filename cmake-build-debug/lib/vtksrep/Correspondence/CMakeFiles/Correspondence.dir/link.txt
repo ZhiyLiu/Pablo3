@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../libCorrespondence.a  CMakeFiles/Correspondence.dir/toolsfunc.cpp.o CMakeFiles/Correspondence.dir/thinplatesplinepdmtosrep.cpp.o
+/usr/bin/ranlib ../../../libCorrespondence.a

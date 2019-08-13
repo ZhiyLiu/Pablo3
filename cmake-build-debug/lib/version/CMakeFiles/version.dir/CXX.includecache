@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/playpen/software/sreps/Pablo2/lib/version/src/version.cpp
+iostream
+-
+fstream
+-
+strstream
+-
+string
+-
+string.h
+-
+stdlib.h
+-
+limits.h
+-
+

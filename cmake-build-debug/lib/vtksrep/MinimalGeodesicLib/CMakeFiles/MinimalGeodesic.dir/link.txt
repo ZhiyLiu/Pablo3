@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../libMinimalGeodesic.a  CMakeFiles/MinimalGeodesic.dir/vtkbestcircle.cpp.o CMakeFiles/MinimalGeodesic.dir/bestCircleFit.cpp.o
+/usr/bin/ranlib ../../../libMinimalGeodesic.a
